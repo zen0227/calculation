@@ -4,15 +4,27 @@
     padding: 15px 60px;
     width: 30px;
     height: 50px;
+    font-size: 25px;
 }
 
 .button2 {
-    background-color: #ff0000;
+    background-color: #333;
     color: #fff;
     padding: 15px 125px;
     width: 30px;
     height: 50px;
+    font-size: 25px;
 }
+
+.button3 {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 15px 60px;
+    width: 30px;
+    height: 50px;
+    font-size: 25px;
+}
+
 input[type="text"]{
     font-size: 150%;
 }
